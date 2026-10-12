@@ -164,5 +164,5 @@
     "fr": "Chiffres mensuels des arrivées et nuitées dans des logements de vacances et\ndes hébergements collectifs selon le type d'hébergement et l'origine des\nhôtes, depuis 2017.\nSource: enquête OFS PASTA (statistique de la parahôtellerie).\nObtenu via l'API SDMX du Swiss Stats Explorer,\ndataflow CH1.PASTA:DF_PASTA_552_MONTHLY(1.0.0), https://stats.swiss.\n",
     "it": "Dati mensili per gli arrivi e i pernottamenti in abitazioni di vacanza e\nalloggi collettivi secondo il tipo di alloggio e l'origine degli ospiti,\ndal 2017.\nFonte: rilevazione UST PASTA (statistica del settore paralberghiero).\nOttenuto tramite l'API SDMX dello Swiss Stats Explorer,\ndataflow CH1.PASTA:DF_PASTA_552_MONTHLY(1.0.0), https://stats.swiss.\n"
   },
-  "update_checksum": "f2f193ff67cf5344940b335305f66006ecf786598abcbe435de0ce690b28ddbd"
+  "update_checksum": "ca4a7ea6d5e7528bf9081538688f0276e14d0be6bf3a1827333004c853490ff9"
 }
